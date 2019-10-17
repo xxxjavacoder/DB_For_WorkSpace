@@ -1,0 +1,1 @@
+SELECT * FROM csd_db1.person;
